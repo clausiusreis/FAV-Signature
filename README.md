@@ -16,3 +16,6 @@ For example: The image bellow of the file **2015.02.19_00.01.22_M10.png.png** co
 ![alt text](https://github.com/clausiusreis/FAV-Signature/blob/master/DetectionImg/2015.02.19_00.01.22_M10.png?raw=true)
 
 For the one-minute sample spectrogram (Right) two peaks related to the presence of boats were detected using the FAV signature (Red watermark), where only one peak was detected using the DEMON square-law implementation (Black dots)
+
+## Acknowledgements
+The authors acknowledge the financial support of the São Paulo State Research Foundation (FAPESP grants 2017/05838-3 and 2016/02175-0) and the National Council for Scientific and Technological Development (CNPq grant 301847/2017-7). The views expressed do not reflect the official policy or position of either FAPESP or CNPq.
