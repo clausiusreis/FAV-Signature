@@ -7,7 +7,7 @@ Implementation of the FAV and DEMON Signatures for boat detection.
 [24H Spectrogram from 2015-02-19 00:01:22 to 2015-02-20 00:06:56](https://github.com/clausiusreis/FAV-Signature/blob/master/24hSpectrogram/SpecPeriod_2015.02.19.png) showing only frequencies up to 1kHz. 
 
 ## Sample analysis
-[Images for each sample analysis](https://github.com/clausiusreis/FAV-Signature/tree/master/DetectionImg) for each of the 1440 minutes of the 24h Spectrogram, showing only frequencies up to 1kHz. 
+[Images for each of the 1440 sample analysis](https://github.com/clausiusreis/FAV-Signature/tree/master/DetectionImg) of the 24h Spectrogram, showing only frequencies up to 1kHz. 
 
 The name pattern for the files is: **year.month.day_hour.minute.second_M0.png** where **M0** is the minute of the file (M0 = minute 0, M1 = minute 1, ...). 
 
