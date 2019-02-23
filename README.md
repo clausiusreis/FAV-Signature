@@ -11,7 +11,7 @@ Implementation of the FAV and DEMON Signatures for boat detection.
 
 The name pattern for the files is: **year.month.day_hour.minute.second_M0.png** where **M0** is the minute of the file (M0 = minute 0, M1 = minute 1, ...). 
 
-For example: The image bellow of the file **2015.02.19_00.01.22_M10.png.png** corresponds to February, 19 of 2015 where the recording (Minute 10) started at 00:11:22 and ended at 00:12:22, corresponding to file time 00:01:22 plus 10 and 11 minutes respectively.
+For example: The image bellow of the file **2015.02.19_00.01.22_M10.png.png** corresponds to February 19, 2015, where the recording (Minute 10) started at 00:11:22 and ended at 00:12:22, corresponding to file time 00:01:22 plus 10 and 11 minutes respectively.
 
 ![alt text](https://github.com/clausiusreis/FAV-Signature/blob/master/DetectionImg/2015.02.19_00.01.22_M10.png?raw=true)
 
