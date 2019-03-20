@@ -1,7 +1,7 @@
 # FAV-Signature
-Implementation of the FAV and DEMON Signatures for boat detection.
+[Implementation](https://github.com/clausiusreis/FAV-Signature/tree/master/Code) of the FAV and DEMON Signatures for boat detection, comparison code and [samples](https://github.com/clausiusreis/FAV-Signature/tree/master/Code/samples) used on the papercan be found on [Code folder](https://github.com/clausiusreis/FAV-Signature/tree/master/Code).
 
-## 24h Spectrogram
+## 24h Spectrogram of analysed period (2015.02.19)
 ![alt text](https://github.com/clausiusreis/FAV-Signature/blob/master/24hSpectrogram/SpecPeriod_2015.02.19.png?raw=true)
 
 [24H Spectrogram from 2015-02-19 00:01:22 to 2015-02-20 00:06:56](https://github.com/clausiusreis/FAV-Signature/blob/master/24hSpectrogram/SpecPeriod_2015.02.19.png) showing only frequencies up to 1kHz. 
